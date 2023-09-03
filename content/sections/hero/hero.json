@@ -1,0 +1,22 @@
+{
+  "intro": "Hello!",
+  "heroPhoto": {
+    "src": "../../images/profile-square.png",
+    "alt": "My Photo"
+  },
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm Christo.",
+  "subtitle": {
+    "prefix": "I like building ",
+    "highlight": "cool",
+    "suffix": " things."
+  },
+  "description": "Software Engineer, 2024 grad at Carleton College.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}

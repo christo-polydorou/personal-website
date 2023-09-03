@@ -1,0 +1,41 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "title": "Christo Polydorou",
+    "titleTemplate": "%s · Christo Polydorou",
+    "description": "Christo's personal website highlighting skills and projects",
+    "author": "Christo Polydorou",
+    "avatar": "../content/images/profile-square.png",
+    "bio": "Christo Polydorou's personal website",
+    "social": {
+      "github": "https://github.com/christo-polydorou",
+      "linkedin": "https://www.linkedin.com/in/christopolydorou",
+      "mail": "mailto:polydorouc@carleton.edu"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Christo Polydorou" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Projects", "url": "/#projects" },
+        { "label": "Contact", "url": "/#contact" }
+      ],
+      "ctaButton": {
+        "openNewTab": true,
+        "label": "Resume",
+        "url": "/resume.pdf"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Terms", "url": "/terms" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}

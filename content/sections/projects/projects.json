@@ -1,0 +1,47 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "",
+      "title": "Scheme Interpreter",
+      "description": "Simple interpreter for the Scheme programming language, written in C. Provides basic functionality for parsing and evaluating of Scheme expressions.",
+      "tags": ["C", "Scheme"],
+      "image": {
+        "src": "../../images/interpreter.png",
+        "alt": "Scheme Programming image",
+        "objectFit": "contain"
+      
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/christo-polydorou/scheme-interpreter"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
+      "title": "Natural Disaster Archive Viewer",
+      "description": "Database-driven website that allows users to visualize trends in U.S. natural disasters since 1953.",
+      "tags": ["HTML/CSS", "JavaScript", "Python", "Flask"],
+      "image": {
+        "src": "../../images/disasterViewer.png",
+        "alt": "Extendable Layout",
+        "objectFit": "fill"
+        
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/christo-polydorou/disaster-tracker"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": true,
+    "label": "Other projects!",
+    "url": "https://github.com/christo-polydorou"
+  }
+}

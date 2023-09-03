@@ -1,0 +1,13 @@
+{
+  "name": "Christo Polydorou",
+  "email": "polydorouc@carleton.edu",
+  "description": "Feel free to reach out if you have questions or simply want to say hello!",
+  "image": {
+    "src": "../../images/profile-square.png",
+    "alt": "Profile image"
+  },
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Mail"],
+    "showIcons": true
+  }
+}

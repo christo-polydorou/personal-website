@@ -1,0 +1,32 @@
+{
+  "name": "personal-website",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "author": "Christo Polydorou",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "gatsby",
+    "website",
+    "portfolio",
+    "showcase",
+    "minimal",
+    "animations",
+    "dark-mode"
+  ],
+  "scripts": {
+    "clean": "gatsby clean",
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "gatsby": "^5.0.1",
+    "gatsby-theme-portfolio-minimal": "^4.6.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
