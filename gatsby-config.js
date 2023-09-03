@@ -14,6 +14,10 @@ module.exports = {
           display: "minimal-ui",
         },
         contentDirectory: "./content",
+        blogSettings: {
+          path: "/blog",
+          usePathPrefixForArticles: true,
+        },
       },
     },
   ],
