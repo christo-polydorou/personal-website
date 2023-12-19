@@ -3,6 +3,25 @@
     {
       "visible": true,
       "category": "",
+      "title": "Algorithm Arena",
+      "description": "Built frontend/backend for a competitive programming web app using React, MaterialUI, AWS, and MongoDB. Has over 20 leetcode style questions that are evaluated in real time using 100+ test cases.",
+      "tags": ["React", "MaterialUI", "AWS", "MongoDB", "Docker"],
+      "image": {
+        "src": "../../images/data-structure-1.png",
+        "alt": "Scheme Programming image",
+        "objectFit": "contain"
+      
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/NguyenTran2002/AlgorithmArena"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
       "title": "Scheme Interpreter",
       "description": "Simple interpreter for the Scheme programming language, written in C. Provides basic functionality for parsing and evaluating of Scheme expressions.",
       "tags": ["C", "Scheme"],

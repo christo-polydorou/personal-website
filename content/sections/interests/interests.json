@@ -57,9 +57,30 @@
       }
     },
     {
+      "label": "Swift",
+      "image": {
+        "src": "../../images/swift-logo.png",
+        "alt": ""
+      }
+    },
+    {
       "label": "Azure",
       "image": {
+        "src": "../../images/Microsoft_Azure.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "AWS",
+      "image": {
         "src": "../../images/cloud.png",
+        "alt": ""
+      }
+    },
+    {
+      "label": "Docker",
+      "image": {
+        "src": "../../images/docker-logo.png",
         "alt": ""
       }
     }
@@ -67,6 +88,7 @@
   "button": {
     "visible": true,
     "label": "+ Load More",
-    "initiallyShownInterests": 9
+    "initiallyShownInterests": 12
   }
+  
 }
