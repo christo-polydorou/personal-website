@@ -11,7 +11,7 @@
     "social": {
       "github": "https://github.com/christo-polydorou",
       "linkedin": "https://www.linkedin.com/in/christopolydorou",
-      "mail": "mailto:polydorouc@carleton.edu"
+      "mail": "mailto:christopolydorou@gmail.com"
     }
   },
   "siteConfiguration": {
@@ -33,7 +33,7 @@
       ]
     },
     "featureToggles": {
-      "useDarkModeAsDefault": false,
+      "useDarkModeAsDefault": true,
       "useDarkModeBasedOnUsersPreference": true,
       "useCookieBar": false
     }

@@ -3,12 +3,32 @@
     {
       "visible": true,
       "category": "",
+      "title": "Swiftly: AI Powered To-do list",
+      "description": "As part of a senior capstone project, I lead the development of an iOS app that aggregates users' daily tasks in various views, and gives ML recommendations for scheduling. For my leadership efforts, I received distinction on the project.",
+      "tags": ["Swift", "SwiftUI", "CoreData", "CreateML"],
+      "image": {
+        "src": "../../images/SwiftlyLogo.png",
+        "alt": "Scheme Programming image",
+        "objectFit": "contain",
+        "linkTo": "https://cs.carleton.edu/cs_comps/2324/productivityDashboard/final-results-2/Swifty_Website/about-us.html"
+      
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/christo-polydorou/ProdDashboard.git"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "",
       "title": "Algorithm Arena",
       "description": "Built frontend/backend for a competitive programming web app using React, MaterialUI, AWS, and MongoDB. Has over 20 leetcode style questions that are evaluated in real time using 100+ test cases.",
       "tags": ["React", "MaterialUI", "AWS", "MongoDB", "Docker"],
       "image": {
         "src": "../../images/data-structure-1.png",
-        "alt": "Scheme Programming image",
+        "alt": "Data Structure image",
         "objectFit": "contain"
       
       },

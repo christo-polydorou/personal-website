@@ -10,11 +10,11 @@
   },
   "title": "I'm Christo.",
   "subtitle": {
-    "prefix": "I like creating ",
+    "prefix": "I create ",
     "highlight": "innovative",
     "suffix": " projects."
   },
-  "description": "Software Engineer, 2024 grad at Carleton College.",
+  "description": "Software Engineer, 2024 Grad from Carleton College.",
   "socialProfiles": {
     "from": ["LinkedIn", "Github", "Mail"],
     "showIcons": true

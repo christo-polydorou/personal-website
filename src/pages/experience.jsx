@@ -17,7 +17,7 @@ export default function CustomizedTimeline() {
 
     return (
         <>
-            <p  style={{ marginBottom: '40px' }}>During my time at college I have been fortunate enough to work with a lot of amazing organizations. Here are some of them:</p>
+            <p  style={{ marginBottom: '40px' }}>During my time in college I was fortunate enough to work with a lot of amazing organizations. Here are some of them:</p>
             <Timeline position="alternate">
             <TimelineItem>
                 <TimelineOppositeContent
@@ -60,7 +60,7 @@ export default function CustomizedTimeline() {
                 </TimelineSeparator>
                 <TimelineContent sx={{ py: '12px', px: 2 }}>
                 <Typography variant="h5" component="span" color="#F8F8FF">
-                    Pearson Inc
+                    Pearson VUE
                 </Typography>
                 <Typography variant="body1" color="#DCDCDC" mb="12px" mt="5px">
                     Software Engineer Intern
@@ -75,7 +75,7 @@ export default function CustomizedTimeline() {
                     variant="body2"
                     color="#6DB8BA"
                 >
-                SEPTEMBER - NOW&nbsp;&nbsp;23'
+                SEPTEMBER&nbsp;&nbsp;23' - MARCH&nbsp;&nbsp;24'
                 </TimelineOppositeContent>
                 <TimelineSeparator>
                 <TimelineConnector sx={{ bgcolor: '#A9A9A9' }}/>
